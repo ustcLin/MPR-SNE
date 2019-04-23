@@ -1,0 +1,4 @@
+tensorflow>=1.2.1
+Cython>=0.25.2
+numpy>=1.14.2
+scikit_learn>=0.20.3
