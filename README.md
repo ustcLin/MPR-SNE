@@ -19,7 +19,7 @@ Note: the datasets should be placed in the datasets file, and the format refers 
 ## Installation
 1. `pip install -r requirements.txt`
 2. Building a Cython module using distutils:
-`python  setup.py  build_ext  --inplace`
+`python  setup.py  build_ext  --inplace`. 
 Refer to [http://docs.cython.org/en/latest/src/quickstart/build.html#building-a-cython-module-using-distutils](http://docs.cython.org/en/latest/src/quickstart/build.html#building-a-cython-module-using-distutils).
 
 ## Citing
