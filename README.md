@@ -1,7 +1,7 @@
 # MPR-SNE
 Source code for  "Multi-Path Relationship Preserved Social Network Embedding": https://ieeexplore.ieee.org/document/8649580
 
-## Usage:
+## Usage
  1. Test node classification:
  `python main_node_classification.py`
 
